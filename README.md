@@ -27,7 +27,7 @@ My Name Is SonSeongBin. And I'm In The 3 Grade In Gyeonggi Game Meister HighScho
  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-❤️Contact❤️
+⚡Contact⚡
 ---------------
  <a href="https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://www.notion.so/Sehyeon-s-Notion-8dbba6346a4e4a5d8061571d7059117c?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
