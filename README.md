@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&height = 600&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&color=gradient&desc=SeongBin's%20Github%20Profile&descSize=25&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!!&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&desc=Sehyeon's%20Github%20Profile&descSize=25&descAlign=50&descAlignY=50)
 
 ✨Introduce✨
 =
@@ -49,6 +49,6 @@ Github Information
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=sehyeon1104&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![opgc](https://api.opgc.me/githubs/users/sonseongbin9749/tag/?theme=dracula)
+![opgc](https://api.opgc.me/githubs/users/sehyeon1104/tag/?theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20For%20Visiting!!&fontSize=70&animation=fadeIn&fontAlignY=70&fontColor=FFFFFF)
