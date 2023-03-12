@@ -39,7 +39,7 @@ Github Information
 -----
 ![](https://github-readme-stats.vercel.app/api?username=sonseongbin9749&show_icons=true&theme=tokyonight)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=sehyeon1104&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=sonseongbin9749&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![opgc](https://api.opgc.me/githubs/users/sonseongbin9749/tag/?theme=dracula)
 
