@@ -29,9 +29,6 @@ My Name Is SonSeongBin. And I'm In The 3 Grade In Gyeonggi Game Meister HighScho
 
 ❤️Contact❤️
 ---------------
- <a href="https://www.facebook.com/profile.php?id=100018058574236" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
- <a href="https://www.instagram.com/sehyeon.&#95;.1104" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/손성빈%3159?style=for-the-badge&logo=Discord&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://www.notion.so/Sehyeon-s-Notion-8dbba6346a4e4a5d8061571d7059117c?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 ------
