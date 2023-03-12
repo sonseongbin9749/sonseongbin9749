@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!!&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&desc=Sehyeon's%20Github%20Profile&descSize=25&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Sehyeon's%20Github%20Profile&&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&descSize=25&descAlign=50&descAlignY=50)
 
 ✨Introduce✨
 =
