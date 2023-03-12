@@ -4,14 +4,7 @@
 
 ✨Introduce✨
 =
-My name is Kim Se-hyeon aspiring client programmer. 
- 
-
-🥰Career🥰
----------------
-| Type | Term | Role | Organization | Department |
-|------|---|---|---|-
-| High School | 2021 ~| Student | Gyeonggi Game Meister High School | Game development department|
+My Name Is SonSeongBin. And I'm In The 3 Grade In Gyeonggi Game Meister HighSchool.
  
   
   
