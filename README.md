@@ -23,7 +23,6 @@ My Name Is SonSeongBin. And I'm In The 3 Grade In Gyeonggi Game Meister HighScho
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">  
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
-<img src="https://img.shields.io/badge/Desktop-5C2D91?style=for-the-badge&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
